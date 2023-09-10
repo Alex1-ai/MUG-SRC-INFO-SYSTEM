@@ -1,0 +1,3 @@
+BEFORE RUNNING THE CODE
+put your env code in environment variable
+>source .env
