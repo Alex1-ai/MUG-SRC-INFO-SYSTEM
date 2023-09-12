@@ -30,7 +30,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     #192.168.56.1 '*',
-    "https://mug-rest-api.onrender.com/"
+    # "https://mug-rest-api.onrender.com/",
+    'mug-rest-api.onrender.com'
     "localhost",
     "127.0.0.1"
     ]
