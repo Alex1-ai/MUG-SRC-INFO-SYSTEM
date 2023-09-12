@@ -29,8 +29,10 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '*',
-    '127.0.0.1'
+    #192.168.56.1 '*',
+    "https://mug-rest-api.onrender.com/"
+    "localhost",
+    "127.0.0.1"
     ]
 
 
