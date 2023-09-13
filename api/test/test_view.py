@@ -27,17 +27,22 @@ class TestView(TestSetup):
             self.user_data, format="json"
         )
         self.assertEqual(res.status_code,401)
-
+    
     def test_user_can_login_after_verification(self):
         response = self.client.post(self.register_url, self.user_data, format="json")
         email = response.data['email']
         user = User.objects.get(email=email)
         user.is_verified = True
         user.save()
-
+    
 
         res = self.client.post(
             self.login_url,
             self.user_data, format="json"
         )
         self.assertEqual(res.status_code,200)
+
+    def test_get_all_news(self):
+        res = self.client.get(self.news_url, format="json")
+
+        self.assertEqual(res.status_code, 200)
