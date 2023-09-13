@@ -24,7 +24,8 @@ import datetime
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = 'django-insecure-=apteu5+$(pp4@th^s06j*+o0094$zdl6k*9=g7)^16wi+y7nz'
-SECRET_KEY = os.environ.get('SECRET_KEY')
+# SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = os.environ.get('SECRET_KEY') or 'django-insecure-=apteu5+$(pp4@th^s06j*+o0094$zdl6k*9=g7)^16wi+y7nz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
