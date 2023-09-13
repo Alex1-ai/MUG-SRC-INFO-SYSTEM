@@ -9,6 +9,6 @@ from .import views
 
 
 urlpatterns = [
-    path('', views.timetableViewSet),
+    path('', views.timetableViewSet, name='timetable'),
     # path('candidate/', views.CandidateViewSet)
 ]

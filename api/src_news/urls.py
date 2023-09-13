@@ -9,6 +9,6 @@ from .import views
 
 
 urlpatterns = [
-    path('', views.srcNewsViewSet),
+    path('', views.srcNewsViewSet, name="news"),
     # path('candidate/', views.CandidateViewSet)
 ]

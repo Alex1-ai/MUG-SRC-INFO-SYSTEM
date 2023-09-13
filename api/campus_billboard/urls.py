@@ -9,6 +9,6 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.billBoardViewSet)
+    path('', views.billBoardViewSet, name='poster')
     
 ]
