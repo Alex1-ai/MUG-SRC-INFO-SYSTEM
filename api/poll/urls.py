@@ -10,9 +10,9 @@ from .import views
 
 urlpatterns = [
     path('', views.castVoteView),
-    path('candidates/', views.candidate_list),
+    path('candidates/', views.candidate_list, name="candidates"),
     path('candidate/<int:pk>', views.candidate_details),
-    path('positions/', views.positionsViewSet)
+    path('positions/', views.positionsViewSet,name="positions")
 ]
 
 
