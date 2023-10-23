@@ -18,4 +18,9 @@ We invite students, developers, and contributors from all backgrounds to join ou
 🚀 Get Started:
 To start contributing, simply fork this repository and explore the 'Contributing' guidelines in the repository. Join us in making a positive impact on campus communication and community engagement.
 
-Let's empower SRC leaders together through technology and collaboration. Join the Methodist Info System community today!"
+Let's empower SRC leaders together through technology and collaboration. Join the Methodist Info System community today!
+"![WhatsApp Image 2023-09-12 at 7 53 48 PM](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/f4d0ebd8-9707-48fa-a737-09ae72a52727) ![WhatsApp Image 2023-09-12 at 7 53 49 PM](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/6b5153bc-cc12-4cda-8a77-3612b9f1f827)
+![WhatsApp Image 2023-09-12 at 7 53 59 PM](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/d45537c3-cb24-4e41-aa54-9738860abca1)
+![WhatsApp Image 2023-09-12 at 7 53 46 PM (1)](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/c7de2eab-1201-473f-8a0a-a96062ca238d)
+![WhatsApp Image 2023-09-12 at 7 53 46 PM](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/d6b15148-9fb9-40ed-bd06-5d8800761021)
+![WhatsApp Image 2023-09-12 at 7 53 43 PM](https://github.com/Alex1-ai/MUG-SRC-INFO-SYSTEM/assets/78540958/28b080f8-7f1c-43f3-bc91-2bdb8f11169d)
