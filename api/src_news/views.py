@@ -9,5 +9,5 @@ from .serializers import Src_News_Serializer
 def srcNewsViewSet(request):
      queryset = Src_News.objects.all().order_by('-updated_at')
      serializer_class = Src_News_Serializer(queryset,many=True)
-    #  permission_classes = [IsAdminUser, ]
+  
      return Response(serializer_class.data)
