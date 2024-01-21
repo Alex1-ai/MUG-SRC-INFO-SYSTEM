@@ -1,3 +1,4 @@
 BEFORE RUNNING THE CODE
 put your env code in environment variable
 >source .env
+News model should always be equal to 3 or greater than 3
