@@ -137,7 +137,7 @@ REST_FRAMEWORK={
     'NON_FIELD_ERRORS_KEY':'error',
     'EXCEPTION_HANDLER':'utils.exception_handler.custom_exception_handler',
     'DEFAULT_AUTHENTICATION_CLASSES': [
-        
+
         # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ]
@@ -178,9 +178,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR/'staticfiles'
